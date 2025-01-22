@@ -1,0 +1,9 @@
+{
+	"name": "datafact-dev-01",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d555ca33-9e54-4ae6-b51a-8ea6f3181288",
+		"tenantId": "1139abdd-336a-4d5f-b504-a793413f4740"
+	}
+}
